@@ -1,3 +1,6 @@
+export const NFT_CONTRACT_ADDRESS = "0x32B529e6eEeda27a226c5829AB2728CCDE2C4A3e";
+export const ALCHEMY_API_KEY_URL = "https://eth-rinkeby.alchemyapi.io/v2/0GXwgYoKl6Y_WUzWUbb57ElBacokUFbZ";
+
 export const abi = [
   {
     "inputs": [
@@ -581,5 +584,3 @@ export const abi = [
     "type": "receive"
   }
 ] ;
-export const NFT_CONTRACT_ADDRESS = "0xfea299C714FEc75AAD4B490D3A51F1Ad5A77a01d";
-export const ALCHEMY_API_KEY_URL = "https://eth-rinkeby.alchemyapi.io/v2/0GXwgYoKl6Y_WUzWUbb57ElBacokUFbZ";
