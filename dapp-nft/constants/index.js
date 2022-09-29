@@ -1,4 +1,4 @@
-export const NFT_CONTRACT_ADDRESS = "0xC7c7e834A501f0F1DAF2D6135be477cA522659e6";
+export const NFT_CONTRACT_ADDRESS = "0x17969a46bDE179e7c9Af4fFf342b530682FD75DA";
 export const ALCHEMY_API_KEY_URL = "https://eth-goerli.g.alchemy.com/v2/vO4a0WSbi3LmwwF2Y-aIv6R2pKLllpbe";
 
 export const abi = [
